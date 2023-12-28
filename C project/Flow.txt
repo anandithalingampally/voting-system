@@ -1,0 +1,13 @@
+Voting, its count and exit are the features
+
+a) First choose if you want to 1)vote or 2)see the vote count or 3)exit
+
+b) if you choose 1 then CANDIDATE LIST appears and you have to choose one candidate from the list
+
+c) After choosing the candidate, you are directed back to the menu
+
+d) Step (a) is repeated for a few times
+
+e) After the voting is completed, if you have choosen 2, The CANDIDATE with highest number of votes is displayed
+
+f) After the votes are displayed, if you have choosen 3, you exit.

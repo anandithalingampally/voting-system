@@ -1,0 +1,25 @@
+MINI VOTING PROJECT
+
+ 
+Feature list: Voting, vote count, exit.
+
+As soon as the application is opened, the user will be able to see all the three features.
+
+Methods used in the project to implement feature and application logic:
+
+Feature logic:  1) Voting feature
+          
+                  If the voting feature is chosen, the CANDIDATE LIST appears and you have to choose one candidate from the list.
+                  After choosing the candidate, you are directed back to the menu.
+
+
+                2) Vote count feature
+ 
+                 After the voting is completed, if vote count feature is chosen, The CANDIDATE with highest number of votes is displayed.
+                 And after the count is shown, you are directed back to the menu.
+
+                3) Exit feature
+                  
+                  After viewing the vote count, if the exit feature is chosen, you will be exited from the application.
+                 
+
